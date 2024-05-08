@@ -20,5 +20,5 @@
 <!-- WEBSITE LINK -->
 <website>http://new.nostalg-play.eu/</website>
 <!-- DOWNLOAD LAUNCHER LINK -->
-<download>http://new.nostalg-play.eu/rss/launcher/download</download>
+<downloader>http://new.nostalg-play.eu/rss/launcher/download</downloader>
 </config>
