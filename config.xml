@@ -7,18 +7,18 @@
 <!--  EXECUTABLE DU JEU -->
 <executable>Dofus.exe</executable>
 <!-- UPDATE LINK -->
-<download>http://185.224.134.86/update/app</download>
+<download>http://185.231.70.27/upl/app</download>
 <!-- ATTENTION A NE PAS METTRE DE "/"  à la fin sur NEWS et LAUNCHER -->
 <!-- NEWS LINK -->
-<news>http://new.nostalg-play.eu/rss</news>
+<news>http://185.231.70.27/rss</news>
 <!-- LAUNCHER LINK -->
-<launcher>http://new.nostalg-play.eu/rss/launcher</launcher>
+<launcher>http://185.231.70.27/rss/launcher</launcher>
 <!-- LAUNCHER UPDATE LINK -->
-<launcherdownload>http://new.nostalg-play.eu/rss/launcher/updatelauncher</launcherdownload>
+<launcherdownload>http://185.231.70.27/rss/launcher/updatelauncher</launcherdownload>
 <!-- DISCORD LINK -->
 <discord>https://discord.gg/invite/</discord>
 <!-- WEBSITE LINK -->
-<website>http://new.nostalg-play.eu/</website>
+<website>http://185.231.70.27/</website>
 <!-- DOWNLOAD LAUNCHER LINK -->
-<downloader>http://new.nostalg-play.eu/rss/launcher/download</downloader>
+<download>http://185.231.70.27/rss/launcher/download</download>
 </config>
