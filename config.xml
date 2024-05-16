@@ -20,5 +20,5 @@
 <!-- WEBSITE LINK -->
 <website>http://185.231.70.27/</website>
 <!-- DOWNLOAD LAUNCHER LINK -->
-<download>http://185.231.70.27/rss/launcher/download</download>
+<downloader>http://185.231.70.27/rss/launcher/download</downloader>
 </config>
